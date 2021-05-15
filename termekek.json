@@ -1,0 +1,15 @@
+[{
+        "név": "Hamburger",
+        "db": 2,
+        "cikkszám": 101,
+        "ar": 1000,
+        "mirelit": true
+    }, {
+        "név": "Pizza",
+        "db": 1,
+        "cikkszám": 201,
+        "ar": 1200,
+        "mirelit": true
+    }]
+
+

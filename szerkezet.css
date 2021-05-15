@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+main, article, footer, header, section {
+    border: 1px solid gray;
+    padding:10px;
+}
+
+main {
+    max-width: 800px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    
+    
+}
+td,th {
+    border: 1px solid gray;
+}
+
+tr:nth-child(even){
+    background:skyblue;
+}
+form div {
+    display:grid;
+    grid-template-columns: 100px auto;
+    
+}
+label {
+    text-align: right;
+    padding-right:10px;
+}
